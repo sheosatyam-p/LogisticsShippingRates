@@ -1,5 +1,6 @@
 # Shipping Cost Calculator
 
+#making a change to test SSH changes on desktop
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
 rate = float(input("Enter the shipping rate per kilogram: "))
